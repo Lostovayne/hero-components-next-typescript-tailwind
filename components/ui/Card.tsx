@@ -11,7 +11,7 @@ interface CardProps {
 
 export const Card: FC<CardProps> = ({ imageSrc, number, title, buttonText }) => {
     return (
-        <div className="relative w-full h-72">
+        <div className="relative w-full h-64">
             <Image src={imageSrc} alt={title} fill className="object-cover" />
             <h5
                 className="absolute left-4 top-4 text-white
