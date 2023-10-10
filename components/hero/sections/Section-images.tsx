@@ -12,18 +12,24 @@ export const SectionImages = () => {
                     className="object-cover"
                 />
             </div>
-            <div>
+            <div className="flex items-center">
                 <Card
-                    imageSrc="https://img.freepik.com/foto-gratis/camino-rural_1098-13180.jpg?w=1380&t=st=1696900257~exp=1696900857~hmac=4cc7e65521e3f6da2c81fb88cea3f2994d55df48e198319b198f884793f6494e"
+                    imageSrc="https://img.freepik.com/foto-gratis/impresionante-foto-montana-misurina-alpes-italianos-cielo-nublado_181624-17332.jpg?w=1380&t=st=1696912730~exp=1696913330~hmac=a3927fe2d3ccf7d00a481e9f23cbd777798f702e3c97b431283d7be54b2a01f5"
                     number="02"
                     title="Path to the Montains"
                     buttonText="Explore"
                 />
                 <Card
-                    imageSrc="https://img.freepik.com/foto-gratis/camino-rural_1098-13180.jpg?w=1380&t=st=1696900257~exp=1696900857~hmac=4cc7e65521e3f6da2c81fb88cea3f2994d55df48e198319b198f884793f6494e"
-                    number="02"
-                    title="Path to the Montains"
-                    buttonText="Explore"
+                    imageSrc="https://img.freepik.com/foto-gratis/fascinante-vista-montana-sassolungo-italia_181624-42103.jpg?w=1380&t=st=1696912426~exp=1696913026~hmac=dda65239461c05b70a68a7158687b9b95cdb01049e1bfea64d76374cccbaf851"
+                    number="03"
+                    title="Road Trip"
+                    buttonText="See tour"
+                />
+                <Card
+                    imageSrc="https://img.freepik.com/foto-gratis/hermosa-vista-silueta-montanas-cielo-nublado-puesta-sol_181624-33437.jpg?w=1380&t=st=1696912573~exp=1696913173~hmac=65093bf2b844769938603612d58fd7c183b41b1c8854b2ce6e842cf4aed0a8ca"
+                    number="04"
+                    title="Guide Trip to the forest"
+                    buttonText="View"
                 />
             </div>
         </section>
