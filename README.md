@@ -14,5 +14,5 @@ pnpm dev
 bun dev
 ```
 
-![Sin título](https://github.com/Lostovayne/hero-components-next-typescript-tailwind/assets/92962731/f109d157-6f7d-4d1e-a5fb-526c5822c49b)
+![mobile](https://github.com/Lostovayne/hero-components-next-typescript-tailwind/assets/92962731/4136e5ca-ffcf-4109-b3fa-e022e5f267a0)
 
